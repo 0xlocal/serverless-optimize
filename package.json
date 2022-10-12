@@ -1,5 +1,5 @@
 {
-  "name": "serverless-optimize",
+  "name": "@flashcoffee/serverless-optimize",
   "version": "1.0.0",
   "description": "Bundle with Browserify, transpile and minify with Babel automatically to your NodeJS runtime compatible JavaScript.",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
     "lint": "node_modules/.bin/standard src/**",
     "lint:fix": "node_modules/.bin/standard --fix src/**"
   },
-  "author": "Ferrel John Fernando",
+  "author": "Flash Coffee",
   "license": "MIT",
   "repository": {
     "type": "git",
